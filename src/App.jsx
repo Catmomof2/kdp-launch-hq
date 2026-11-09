@@ -389,6 +389,18 @@ export default function App() {
             Track paperback, hardcover, and eBook launches without losing
             track of which cover or interior version is which.
           </p>
+          <a
+            href="https://kdp.amazon.com/en_US/bookshelf"
+            target="_blank"
+            rel="noreferrer"
+            className="mt-4 inline-block rounded-lg bg-amber-700 px-4 py-2 text-sm font-semibold text-white hover:bg-amber-800"
+          >
+            Open in KDP ↗
+          </a>
+          <p className="mt-2 text-xs text-stone-500">
+            Opens your KDP Bookshelf in a new tab — sign in there yourself.
+            This dashboard never connects to your KDP account.
+          </p>
         </div>
       </header>
 

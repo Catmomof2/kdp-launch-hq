@@ -20,6 +20,7 @@ If you publish on Amazon KDP, you know the mess: a paperback, a hardcover, and a
 - **Add, edit, and delete** books and editions, and add custom checklist items
 - **Private by default** — everything saves in your browser's localStorage only (`kdp-launch-hq-v1`). Nothing is sent to a server. A "Reset sample data" button restores the two sample books.
 - **Works on phone and desktop** — responsive, warm, bookish design
+- **Open in KDP button** — one tap opens your KDP Bookshelf (https://kdp.amazon.com/en_US/bookshelf) in a new tab, where you sign in yourself. It is only a link — the dashboard never connects to your KDP account and stores no login.
 
 ## Screenshot
 
